@@ -106,5 +106,3 @@ Through this project, I strengthened my skills in:
 - Dashboard Design
 - Business Storytelling
 - Translating data into actionable insights
-
-### ⭐ If you found this project interesting, feel free to star the repository or connect with me on LinkedIn. I'm always open to learning, feedback, and collaboration.
