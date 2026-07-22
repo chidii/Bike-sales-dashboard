@@ -1,7 +1,7 @@
 # Bike-sales-dashboard
-Bike Sales Performance Dashboard in Microsoft Excel
+From Raw Customer Data to Business Insights: Building an Interactive Bike Sales Dashboard in Microsoft Excel
 
-1. PROJECT OVERVIEW
+1. Project Overview
 This project demonstrates how Microsoft Excel can be used to transform raw customer data into actionable business insights through data cleaning, exploratory data analysis and interactive dashboard design.
 
 Acting as a data analyst for a fictional bicycle retailer, I analyzed customer demographic and purchasing data to identify the factors influencing bike purchases. The goal was to uncover meaningful trends that could support data-driven marketing and business decisions.
