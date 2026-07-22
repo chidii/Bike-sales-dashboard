@@ -96,7 +96,7 @@ Based on the analysis, I recommend that the business:
 - Create targeted campaigns for customers with moderate commuting distances.
 
 
-9. Project Outcomes
+10. Project Outcomes
 
 Through this project, I strengthened my skills in:
 
